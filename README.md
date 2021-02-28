@@ -47,5 +47,28 @@ We will be evaluating
 
 #### Test Cases
 
- 1.  
+ 1. Executed three tasecases and the following testcases are passed:-
+ 
+ PASSED: HappyPath
+ PASSED: negativeTest
+ PASSED: demotest
+ 
+ Defect observed whenver run the HappyPath() Automation script, Cost is showing $7.5 instead of $9.75
+ 
+ Also attached one Excell sheet where testcase are documented and split into different stages along
+ with Console output after running the Automation script.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
